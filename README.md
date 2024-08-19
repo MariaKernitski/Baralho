@@ -1,0 +1,2 @@
+# Baralho
+CRUD de baralho.
