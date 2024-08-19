@@ -48,9 +48,9 @@ const destroy = (id) => {
 };
 
 module.exports = {
-  store,
-  index,
-  show,
-  update,
-  destroy,
-};
+    store,
+    index,
+    show,
+    update,
+    destroy
+}
